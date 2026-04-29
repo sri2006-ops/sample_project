@@ -187,10 +187,10 @@ h1 {
   border-radius: 20px;
 }
 
-.img1 { background-image: url("/Users/kumaranjayaraman/Desktop/Screenshot 2026-04-28 at 11.05.17 PM.png"); }
-.img2 { background-image: url("/Users/kumaranjayaraman/Desktop/Screenshot 2026-04-28 at 11.05.21 PM.png"); }
-.img3 { background-image: url("/Users/kumaranjayaraman/Desktop/Screenshot 2026-04-28 at 11.05.25 PM.png"); }
-.img4 { background-image: url("/Users/kumaranjayaraman/Desktop/Screenshot 2026-04-28 at 11.05.32 PM.png"); }
+.img1 { background-image: url("images/Screenshot 2026-04-28 at 11.05.17 PM.png"); }
+.img2 { background-image: url("images/Screenshot 2026-04-28 at 11.05.21 PM.png"); }
+.img3 { background-image: url("images/Screenshot 2026-04-28 at 11.05.25 PM.png"); }
+.img4 { background-image: url("images/Screenshot 2026-04-28 at 11.05.32 PM.png"); }
 
 .newfil{
     color: lightslategray;
